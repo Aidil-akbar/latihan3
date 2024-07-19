@@ -1,5 +1,9 @@
 body {
   font-family: serif;
+
   text-align: center;
   color: black;
+
+  font-size: 1em;
+  color: red;
 }
